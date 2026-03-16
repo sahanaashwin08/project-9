@@ -33,6 +33,7 @@
 
 
 *So overall:*
+
    👉 Header introduces you.
    👉 Skills show your strengths.
    👉 Projects highlight your work.
